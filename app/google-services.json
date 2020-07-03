@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "504927924346",
+    "firebase_url": "https://mathquiz2.firebaseio.com",
+    "project_id": "mathquiz2",
+    "storage_bucket": "mathquiz2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504927924346:android:fd17474641e66d70f18bc3",
+        "android_client_info": {
+          "package_name": "com.example.mathquiz2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504927924346-es88p22s7bgais33qmejl8bep76nhsg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWKKaQWze0YvsbbP5eQD-94sEyCOD7WPE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504927924346-es88p22s7bgais33qmejl8bep76nhsg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
